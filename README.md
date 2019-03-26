@@ -67,5 +67,4 @@ alias createbash='createbash'
 
 TERM=xterm; export TERM
 SHELL=/bin/bash; export SHELL
-
 ``` 
